@@ -14,4 +14,4 @@ Process & memory management, file systems, and Linux internals — with CTF/lab 
 
 ## 📫 Reach me
 - Email: charanpersoa@gmail.com
-- LinkedIn: [CHARAN R](https://linkedin.com/in/CHARAN-R)
+
